@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-primary{
+	background-color:white;
+}
+.demohover h2:hover{
+	color:cadetblue;
+	cursor: pointer;
+	font-size: 80px;
+}
+.demohover h1:hover{
+	font-size: 120px;
+	font-family: 'Permanent Marker', cursive;
+	color:coral;
+}
+.demohover .a1:hover{
+	font-size: 120px;
+	font-family: 'Permanent Marker', cursive;
+	color:coral;
+}
+.demohover .a2:hover{
+	color:cadetblue;
+	font-size: 50px;
+}
